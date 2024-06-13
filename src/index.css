@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+
+    background: rgb(200, 0, 255);
+    font-style: italic;
+    background-image: url(https://images2.alphacoders.com/134/1346589.png);
+
+
+
+}
+.backdrop{
+    background-color: rgba(252, 16, 248, 0);
+}
+.text-gray-900{
+    color: red;
+    background-color: rgba(135, 132, 132, 0);
+}
+.login{
+    color: blueviolet;
+}
